@@ -1,0 +1,19 @@
+[
+    {
+        "id": "101",
+        "value": "UTC",
+        "label": "UTC-Universal Coordinated",
+        "offset": "+00:00",
+        "Date": "2023-07-20",
+        "Time": "22:30"
+        
+    },
+    {
+        "id": "102",
+        "value": "IST",
+        "label": "IST-Indian Standard Time",
+        "offset": "+05:30",
+        "Date": "2023-07-21",
+        "Time": "09:00"
+    }
+]

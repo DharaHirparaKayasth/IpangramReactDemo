@@ -1,0 +1,31 @@
+.checkbox {
+  margin-right: 10px;
+} 
+
+.working-day {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.date {
+  margin-right: 10px;
+}
+
+.day {
+  margin-right: 10px;
+}
+
+.date-selector {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.timezone-picker {
+  width: 100%;
+  z-index: 999;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
